@@ -4,7 +4,7 @@ import json
 import urllib.request
 
 SRC = "https://mylazily.github.io/ziyuanzhan/data/online.json"
-OUT = "d7f.json"
+OUT = "zzz.json"
 
 data = json.load(urllib.request.urlopen(SRC, timeout=30))
 
