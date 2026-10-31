@@ -5,7 +5,7 @@
 订阅地址：
 
 ```
-https://zdx52.github.io/libretv-sources/libretv-sources.json
+https://zdx52.github.io/m4k7q/libretv-sources.json
 ```
 
 LibreTV → 设置 → 数据源订阅 → 粘贴上面地址 → 订阅。
