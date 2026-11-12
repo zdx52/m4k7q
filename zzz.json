@@ -34,6 +34,10 @@
       "url": "http://hongniuzy2.com/api.php/provide/vod"
     },
     {
+      "name": "魔都资源站",
+      "url": "https://www.mdzyapi.com/api.php/provide/vod"
+    },
+    {
       "name": "奶香香资源站",
       "url": "https://naixxzy.com/api.php/provide/vod"
     },
@@ -216,6 +220,10 @@
     {
       "name": "番茄资源站",
       "url": "https://fqzy.me/api.php/provide/vod"
+    },
+    {
+      "name": "如意资源站",
+      "url": "https://api.ryzy.com/api.php/provide/vod"
     },
     {
       "name": "搜av资源站",
